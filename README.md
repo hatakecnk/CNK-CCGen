@@ -1,2 +1,2 @@
-# CNKGen
+# CNK-CCGen
 Credit Card Generator
